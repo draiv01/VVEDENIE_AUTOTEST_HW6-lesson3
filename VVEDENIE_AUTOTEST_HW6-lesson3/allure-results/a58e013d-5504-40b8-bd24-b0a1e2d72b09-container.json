@@ -1,0 +1,1 @@
+{"uuid":"a58e013d-5504-40b8-bd24-b0a1e2d72b09","name":"ConvertAmountsTest","children":["dc1ed4f3-7cb8-40f6-a955-449c937472d5"],"befores":[{"name":"initTest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1703235002056,"stop":1703235002056}],"afters":[],"start":1703235002055,"stop":1703235002348}
